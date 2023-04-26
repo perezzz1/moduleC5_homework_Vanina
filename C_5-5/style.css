@@ -1,0 +1,9 @@
+.output {
+    display: flex;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
+.block {
+    margin: 10px 20px;
+}
